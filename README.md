@@ -31,15 +31,15 @@ Python,Flask,Machine Learning
       Python app.py
       
       
-  #  RESULTS:
+ #  RESULTS:
   
-  ### When it comes to the diagnosed with BC (Breast Cancer):
+ ## When it comes to the diagnosed with BC (Breast Cancer):
   
-      <img width="960" alt="image" src="https://user-images.githubusercontent.com/76062756/143529401-45bb2c95-0dff-42c9-bcde-032d2254510e.png">
-      
-  ### when it comes to the  Not diagnosed with BC: 
      
-      <img width="960" alt="image" src="https://user-images.githubusercontent.com/76062756/143529441-12d4c9eb-9b42-4100-9268-abd9ae21d18d.png">
-
-
+<img width="960" alt="BC" src="https://user-images.githubusercontent.com/76062756/143530078-40687882-8572-4a53-a2fe-50f6474ad3a3.png">
+     
+      
+ ## when it comes to the  Not diagnosed with BC:
+  
+<img width="960" alt="BC1" src="https://user-images.githubusercontent.com/76062756/143530110-61b10d2f-ec18-4eb9-bba3-5ad52ea4be3e.png">
 
